@@ -1,8 +1,5 @@
-# mywebsite
-my website
-
-## link
-[abdellatifdev](https://abdellatifdev.xyz/)
+# leftwm theme 
+my theme of left wm based on my awesomewm config
 
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-dev&show_icons=true&theme=radical)
